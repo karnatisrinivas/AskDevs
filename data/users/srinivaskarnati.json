@@ -1,0 +1,14 @@
+{
+  "name": "Srinivas Karnati",
+  "bio": "DevOps Engineer | Kubernetes | Golang ",
+  "image": "https://avatars.githubusercontent.com/u/52213014",
+  "categories": [
+    {
+      "slug": "DevOps",
+      "topics": ["DevOps", "Kubernetes", "Docker","Terraform", "Containers"]
+    }
+  ],
+  "contacts": {
+    "twitter": "https://twitter.com/__karnati"
+  }
+}
